@@ -1,0 +1,11 @@
+log_entry,log_level
+17/06/08 20:47:02 INFO executor.Executor: Finished task 24.0 in stage 13001.0 (TID 520101). 2076 bytes result sent to driver,INFO
+"17/06/08 11:45:44 INFO storage.MemoryStore: Block rdd_178_29 stored as bytes in memory (estimated size 307.0 B, free 1148.5 KB)",INFO
+17/06/09 18:18:58 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 214371,INFO
+17/06/09 11:37:27 INFO executor.Executor: Running task 13.0 in stage 2733.0 (TID 109771),INFO
+17/06/08 21:49:13 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1,INFO
+17/06/06 21:54:26 INFO storage.BlockManager: Found block rdd_2_37 locally,INFO
+"17/06/09 21:11:13 INFO python.PythonRunner: Times: total = 41, boot = -235, init = 276, finish = 0",INFO
+"17/06/08 11:32:40 INFO python.PythonRunner: Times: total = 38, boot = 19, init = 19, finish = 0",INFO
+17/06/08 13:35:14 INFO executor.Executor: Finished task 1.0 in stage 133.0 (TID 5321). 2667 bytes result sent to driver,INFO
+"17/06/08 16:48:31 INFO python.PythonRunner: Times: total = 38, boot = 18, init = 19, finish = 1",INFO
